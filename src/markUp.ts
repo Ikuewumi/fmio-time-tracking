@@ -28,7 +28,7 @@ export const generateCard = (
             <article class="header flex">
 
                 <h2>${topic.title}</h2>
-                <img src="/public/images/icon-ellipsis.svg" alt="ellipsis">
+                <img src="/images/icon-ellipsis.svg" alt="ellipsis">
 
 
             </article>
