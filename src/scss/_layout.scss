@@ -69,6 +69,7 @@ body {
 
             section.card {
                 background-size: 4rem;
+                background-position: 93% -2%;
 
             }
 
@@ -217,7 +218,7 @@ section.card {
     
     @media (prefers-color-scheme: light) {
         --shadow-clr: #00000020;
-        color: #ccc;
+        color: #eee;
     }
 
 
